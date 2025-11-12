@@ -2,3 +2,6 @@ git init, inicia un repositorio de git
 git status, da informacion sobre el estado de los archivos del repositorio
 git add -A, Prepara los archivos nuevos o modificados para ser guardados
 git commit -m "Mensaje del commit", para guardar los cambios
+git clone, me permite clonar un repositorio remoto en mi maquina local
+
+NOTA: si clono un repositorio, no es necesario hacer git init
