@@ -2,3 +2,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.page {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  max-width: 1600px;
+}
